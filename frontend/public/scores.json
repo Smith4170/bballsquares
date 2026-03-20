@@ -1,0 +1,39 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "round": "Round of 64",
+      "winner": { "name": "Team A", "score": 78 },
+      "loser": { "name": "Team B", "score": 65 },
+      "status": "final"
+    },
+    {
+      "id": 2,
+      "round": "Round of 64",
+      "winner": { "name": "Team C", "score": 89 },
+      "loser": { "name": "Team D", "score": 77 },
+      "status": "final"
+    },
+    {
+      "id": 3,
+      "round": "Round of 32",
+      "winner": { "name": "Team E", "score": 92 },
+      "loser": { "name": "Team F", "score": 81 },
+      "status": "final"
+    },
+    {
+      "id": 4,
+      "round": "Sweet 16",
+      "winner": { "name": "Team G", "score": 68 },
+      "loser": { "name": "Team H", "score": 66 },
+      "status": "final"
+    },
+    {
+      "id": 5,
+      "round": "Elite 8",
+      "winner": { "name": "Team I", "score": 75 },
+      "loser": { "name": "Team J", "score": 72 },
+      "status": "final"
+    }
+  ]
+}
